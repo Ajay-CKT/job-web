@@ -6,7 +6,7 @@ import "react-toastify/ReactToastify.css";
 const MainLayout = () => {
   return (
     <>
-      <Navbar />
+      <Navbar /> 
       <Outlet />
       <ToastContainer />
     </>
